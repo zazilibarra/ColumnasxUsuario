@@ -1,0 +1,26 @@
+{
+  "name": "columnasxusuario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zazilibarra/ColumnasxUsuario.git"
+  },
+  "author": "Zazil Ibarra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zazilibarra/ColumnasxUsuario/issues"
+  },
+  "homepage": "https://github.com/zazilibarra/ColumnasxUsuario#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.17"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
